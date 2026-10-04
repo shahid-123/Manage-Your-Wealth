@@ -1,0 +1,6 @@
+{
+  "name": "Manage Your Wealth",
+  "description": "Personal wealth, salary timeline, loans, investments, and NPS retirement management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
